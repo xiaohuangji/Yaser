@@ -1,0 +1,8 @@
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\bin\Release\LoginSdoDemo.exe
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\bin\Release\LoginSdoDemo.pdb
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\LoginSdoDemo.Form1.resources
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\LoginSdoDemo.Properties.Resources.resources
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\yueche.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\LoginSdoDemo.exe
+C:\Documents and Settings\Administrator\桌面\LoginSdoDemo\LoginSdoDemo\obj\Release\LoginSdoDemo.pdb
